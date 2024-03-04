@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(241, 138, 138);
+    margin-top: 6%;
+}
+
+.card {
+    width: 500px;
+    height: fit-content;
+    background-color: white;
+    border-radius: 25px;
+    border: solid 15px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    padding: 1px;
+}
+
+.box {
+    height: 150px;
+    width: 150px;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/706/706797.png');
+    background-size: cover;
+}
+
+.main-color {
+    color: blue;
+}
